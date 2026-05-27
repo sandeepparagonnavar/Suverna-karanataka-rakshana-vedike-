@@ -1,0 +1,6 @@
+{
+  "name": "Suverna Karnataka Rakshana Vedike",
+  "description": "An interactive, culture-rich social communication platform celebrating Kannada/Karnataka heritage, literature, and culture safely with chat, group feeds, and admin moderation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
